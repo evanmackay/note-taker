@@ -2,5 +2,10 @@
   {
     "title": "Test Title",
     "text": "Test text"
+  },
+  {
+    "id": "79306301-9ba2-4fed-ae09-9570a46c4e94",
+    "title": "New note",
+    "text": "Hello world\n"
   }
 ]
